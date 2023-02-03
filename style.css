@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: aqua;
+}
+body header{
+    font-size: 40px;
+    width: 100%;
+    text-align: center;
+}
+section{
+    width: 100%;
+    margin: 10% 0%;
+    display: flex;
+    justify-content: center; 
+    align-content: center;
+    height: auto;
+}
+#intext{
+    width: 30%;
+    height: 30px;
+    text-align: center;
+    font-size: 100%;
+}
+footer{
+    width: 100%;
+    margin: 10% 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inbutton{
+    padding: 1%;
+    font-weight: 1000;
+}
+#screen{
+    width: 7%;
+    background-color: aquamarine;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 130%;
+    font-weight: 1000;
+}
